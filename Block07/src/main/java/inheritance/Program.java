@@ -6,8 +6,8 @@ public class Program {
         System.out.println(rect.getArea());
 
         Square square = new Square(5, 5);
-
         System.out.println(square.getArea());
+
         square.setHeight(10);
         System.out.println(square.getArea());
     }
